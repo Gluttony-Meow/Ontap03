@@ -1,0 +1,9 @@
+F:\Ontap03\Ontap03\bin\Debug\Ontap03.exe.config
+F:\Ontap03\Ontap03\bin\Debug\Ontap03.exe
+F:\Ontap03\Ontap03\bin\Debug\Ontap03.pdb
+F:\Ontap03\Ontap03\obj\Debug\Ontap03.csprojResolveAssemblyReference.cache
+F:\Ontap03\Ontap03\obj\Debug\Ontap03.Form1.resources
+F:\Ontap03\Ontap03\obj\Debug\Ontap03.Properties.Resources.resources
+F:\Ontap03\Ontap03\obj\Debug\Ontap03.csproj.GenerateResource.Cache
+F:\Ontap03\Ontap03\obj\Debug\Ontap03.exe
+F:\Ontap03\Ontap03\obj\Debug\Ontap03.pdb
